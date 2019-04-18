@@ -19,7 +19,9 @@
 ## Database Design
 
 ### ERD
-![enter image description here](https://lh3.googleusercontent.com/e_hVb45EkjiCXvFiPhl-XpxZZvjkv0_JqaJlOCbdmEPwdLk1xlC-OXWeY28_HOKGCeq7kfR9Mh0p)
+![](https://lh3.googleusercontent.com/e_hVb45EkjiCXvFiPhl-XpxZZvjkv0_JqaJlOCbdmEPwdLk1xlC-OXWeY28_HOKGCeq7kfR9Mh0p)
+
+(Above) ER Diagram showing entities in the GHTorrent database 
 
 ~We have no provided DDL code because we built our program using the existing augur database schematic in mind. 
 
@@ -52,5 +54,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTkzNzAwMDVdfQ==
+eyJoaXN0b3J5IjpbMTA0MzE2ODg3Nl19
 -->
